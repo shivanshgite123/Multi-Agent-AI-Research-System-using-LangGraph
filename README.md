@@ -311,6 +311,22 @@ CMD ["python", "main.py"]
 - Add PDF and Markdown export support
 
 # Screenshot
+- Homepage
 
 <img width="1891" height="831" alt="Screenshot (13944)" src="https://github.com/user-attachments/assets/455ebff3-021e-4cfe-adb4-9c1e227590a8" />
+
+- Search Tool Bar
+<img width="1909" height="824" alt="Screenshot (13945)" src="https://github.com/user-attachments/assets/850b139c-0eb1-4ca1-8128-3c7f98166302" />
+
+- Select Mode
+
+  <img width="1899" height="828" alt="Screenshot (13946)" src="https://github.com/user-attachments/assets/353c726f-8608-433c-8022-28e32ee2da00" />
+
+- Report
+
+  <img width="1900" height="828" alt="Screenshot (13947)" src="https://github.com/user-attachments/assets/700f5eaa-d012-42ba-8f80-37a6105efdd4" />
+
+
+
+  
 
