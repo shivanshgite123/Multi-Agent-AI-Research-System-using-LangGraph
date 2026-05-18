@@ -309,3 +309,8 @@ CMD ["python", "main.py"]
 - Add authentication and user sessions
 - Improve report visualization
 - Add PDF and Markdown export support
+
+# Screenshot
+
+<img width="1891" height="831" alt="Screenshot (13944)" src="https://github.com/user-attachments/assets/455ebff3-021e-4cfe-adb4-9c1e227590a8" />
+
